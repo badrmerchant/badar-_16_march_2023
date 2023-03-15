@@ -16,3 +16,6 @@ function line(a:number,b:number):number{
     return (a-b)+(a+b);
 }
 
+function square(a:number,b:number):number{
+    return (a*a)*(b*b);
+}
